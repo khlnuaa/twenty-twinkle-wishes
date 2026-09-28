@@ -244,7 +244,7 @@ const BirthdayMessage = ({ onNext }: { onNext: () => void }) => {
         <div className="rounded-2xl bg-card border border-border p-8 md:p-10 shadow-xl backdrop-blur-sm">
           
         <p className="text-base md:text-lg font-paragraph italic leading-relaxed text-muted-foreground text-center mb-6">
-        Dear my lovely Misheel  
+        Dear my lovely friend Misheel  
         </p>
 
         <p className="text-base md:text-lg font-paragraph italic leading-relaxed text-muted-foreground text-center mb-6">
