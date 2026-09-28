@@ -186,7 +186,7 @@ const BirthdayMessage = ({ onNext }: { onNext: () => void }) => {
         className="mb-6"
       >
         <div className="w-24 h-24 rounded-full bg-accent flex items-center justify-center shadow-lg overflow-hidden">
-          <img src="https://pub-e2d4cdbf92de47a19dea2e3fccc07d4a.r2.dev/Manduhai/IMG_8806.jpeg" alt="logo" className="w-full h-full object-cover" />
+          <img src="https://pub-e2d4cdbf92de47a19dea2e3fccc07d4a.r2.dev/misheel/IMG_5427.png" alt="logo" className="w-full h-full object-cover" />
         </div>
       </motion.div>
 
@@ -194,7 +194,7 @@ const BirthdayMessage = ({ onNext }: { onNext: () => void }) => {
       <motion.div custom={0.5} variants={fadeUp} initial="hidden" animate="visible" className="mb-4">
         <span className="inline-flex items-center gap-2 px-5 py-2 rounded-full bg-red-400 text-primary-foreground text-sm font-semibold tracking-wide uppercase">
           <PartyPopper className="w-4 h-4" />
-          JUNE 15TH
+          SEPTEMBER 28TH
           <PartyPopper className="w-4 h-4" />
         </span>
       </motion.div>
@@ -244,23 +244,23 @@ const BirthdayMessage = ({ onNext }: { onNext: () => void }) => {
         <div className="rounded-2xl bg-card border border-border p-8 md:p-10 shadow-xl backdrop-blur-sm">
           
         <p className="text-base md:text-lg font-paragraph italic leading-relaxed text-muted-foreground text-center mb-6">
-        Dear my lovely friend Mandukhai 💖
+        Dear my lovely Misheel  
         </p>
 
         <p className="text-base md:text-lg font-paragraph italic leading-relaxed text-muted-foreground text-center mb-6">
-        Welcome to your 20s—a beautiful new chapter filled with endless possibilities. This is the age when we begin building the lives we’ve always imagined, making our own decisions, chasing our biggest dreams, and discovering even more about ourselves along the way. It’s exciting, a little scary at times, but above all, it’s an adventure waiting for us.
+        Welcome to your 20s, a beautiful new chapter filled with endless possibilities. This is the age when we begin building the lives we've always imagined, making our own decisions, chasing our biggest dreams, and discovering even more about ourselves along the way. It's exciting, a little scary at times, but above all, it's an adventure waiting for us.
         </p>
 
         <p className="text-base md:text-lg font-paragraph italic leading-relaxed text-muted-foreground text-center mb-6">
-        What makes this journey even more special is knowing that I get to share it with you. Through every stage of life, every success, every challenge, and every new adventure, I’m so grateful to have you by my side. Ten years of friendship is such a precious gift, and I can’t wait to see what memories we’ll create in the next ten years.
+        What makes this journey even more special is knowing that I get to share it with you and our girls. Through every stage of life, every success, every challenge, and every new adventure, I'm so grateful to have you by my side. Ten years of friendship is such a precious gift, and I can't wait to see what memories we'll create in the next ten years.
         </p>
 
         <p className="text-base md:text-lg font-paragraph italic leading-relaxed text-muted-foreground text-center mb-6">
-        One of the things I’ve always admired most about you is how inspiring you are. You make me want to try new things and see life from a different perspective. Some of my favorite memories are the moments when we decided to do something completely random together, because somehow even the simplest things become fun when I’m with you. No matter what we’re doing, you always turn ordinary days into memories I’ll never forget.
+        One of the things I've always admired most about you is your warm heart. You care so deeply about your family and the people around you, and you always show up for them. You notice when someone needs a hug, a kind word, or just someone to listen, and somehow you always know the right thing to say. It's such a beautiful quality, and everyone in your life is so lucky to have you. And sometimes, it's okay to be the first one on your own list too. Your happiness, your dreams, and your feelings matter just as much as everyone else's, and you're allowed to enjoy them fully. I hope in this new chapter you'll do exactly what feels right for you, follow what your heart wants, and give yourself the same love you give to everyone else.
         </p>
 
         <p className="text-base md:text-lg font-paragraph italic leading-relaxed text-muted-foreground text-center mb-6">
-        Happy 20th birthday, my bestie. Thank you for being such an important part of my life. I’m so proud of you, so grateful for our friendship, and so excited to see all the beautiful things waiting for you in this new chapter. 🤍✨
+        Happy 20th birthday, my bestie. Thank you for being such an important part of my life. I'm so proud of you, so grateful for our friendship, and so excited to see all the beautiful things waiting for you in this new decade. 🤍✨
         </p>
 
           <div className="flex items-center justify-center gap-2 mb-6">

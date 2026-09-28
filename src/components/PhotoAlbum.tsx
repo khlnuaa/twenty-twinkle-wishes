@@ -71,7 +71,7 @@ const PhotoAlbum = () => {
           <div className="rounded-xl aspect-[4/3] mx-auto relative">
             <video
               ref={videoRef}
-              src="https://pub-e2d4cdbf92de47a19dea2e3fccc07d4a.r2.dev/Manduhai/copy_40F340B8-1A60-4A8C-BA0E-B538937B7201.mov"
+              src="https://pub-e2d4cdbf92de47a19dea2e3fccc07d4a.r2.dev/misheel/copy_AE10B7CC-6C14-4C52-8A63-9235021BA737.mov"
               autoPlay
               loop
               playsInline
